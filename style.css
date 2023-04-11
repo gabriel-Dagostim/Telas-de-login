@@ -1,0 +1,86 @@
+*{padding: 0px;margin: 0px;}
+
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-image: url(./img/r-da-praia-da-adraga-colares-portugal-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.MyTabble{
+    border: 2px solid black;
+    padding: 50px;
+    padding-left: 250px;
+    padding-right:250px;
+    border-radius: 50rem;
+
+   background-color: transparent;
+   backdrop-filter: blur(05px);
+   
+
+
+
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    align-items: center;
+    transform: translate(-50%, -50%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.redirect-button{
+
+        height: 50px;
+        width: 160px;
+        margin-bottom: 25px;
+
+        border: solid 1px black;
+
+
+        font-size: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: bold;
+        background-color: transparent;
+        border-radius: 5rem;
+
+        background-color: transparent;
+        box-shadow:  5px 10px 5px   black   ;
+
+
+}
+
+.container{
+   
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: white;
+   
+}
+
+.back-button{
+
+    height: 70px;
+    width: 70px;
+    left: 1%;
+    top: 1%;
+    
+
+
+    background-image: url(../Telas-de-login/img/1174481.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-color: transparent;
+    border: 0px;
+    position: absolute;
+
+    
+  
+}
